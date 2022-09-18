@@ -1,0 +1,15 @@
+/home/botadm/workspad/CheckpointBot/bin/Debug/net6.0/CheckpointBot
+/home/botadm/workspad/CheckpointBot/bin/Debug/net6.0/CheckpointBot.deps.json
+/home/botadm/workspad/CheckpointBot/bin/Debug/net6.0/CheckpointBot.runtimeconfig.json
+/home/botadm/workspad/CheckpointBot/bin/Debug/net6.0/CheckpointBot.dll
+/home/botadm/workspad/CheckpointBot/bin/Debug/net6.0/CheckpointBot.pdb
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/CheckpointBot.csproj.AssemblyReference.cache
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/CheckpointBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/CheckpointBot.AssemblyInfoInputs.cache
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/CheckpointBot.AssemblyInfo.cs
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/CheckpointBot.csproj.CoreCompileInputs.cache
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/CheckpointBot.dll
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/refint/CheckpointBot.dll
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/CheckpointBot.pdb
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/CheckpointBot.genruntimeconfig.cache
+/home/botadm/workspad/CheckpointBot/obj/Debug/net6.0/ref/CheckpointBot.dll
